@@ -46,13 +46,14 @@
   border-radius: 5px;
   padding: 16px 20px;
   font-size: 15px;
-  background-color: #3f434a;
+  background-color: #000000;
 }
+
 
 .form__field__wrapper button[type='submit'] {
   margin-top: 32px;
   cursor: pointer;
-  background-color: #845695;
+  background-color: #dc1010;
   border: none;
   color: #fff;
   font-size: 16px;
@@ -71,7 +72,7 @@
 }
 
 #avatar__selection {
-  margin-reight: 10px;
+  margin-height: 10px;
   display: flex;
   gap: 1em;
 }

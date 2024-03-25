@@ -23,7 +23,7 @@
 }
 
 #members__count {
-  background-color: #1d1d1c;
+  background-color: #000000;
   padding: 7px 15px;
   font-size: 14px;
   font-weight: 600;
@@ -128,7 +128,7 @@
 
 .message__author__bot {
   margin-right: 10px;
-  color: #a52aca!important;
+  color: #67ca2a!important;
 
 }
 
@@ -207,7 +207,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border:2px solid #b366f9;
+  border:2px solid #37b124;
   border-radius: 50%;
   cursor: pointer;
   overflow: hidden;
@@ -335,11 +335,11 @@
 .stream__actions button.active,
 .stream__actions a:hover,
 .stream__actions button:hover {
-  background-color: #845695;
+  background-color: #6d9556;
 }
 
 #join-btn{
-  background-color: #845695;
+  background-color: #20ad2c;
   font-size: 18px;
   padding: 25px 50px;
   border: none;

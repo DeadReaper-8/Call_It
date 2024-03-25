@@ -23,11 +23,11 @@
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #845695;
+  background: #cd4911;
 }
 
 body {
-  background-color: #1a1a1a;
+  background-color: #000000;
   color: #fff;
 
   font-size: 14px;
@@ -119,12 +119,12 @@ a {
 .nav__link:hover {
   color: rgb(230, 228, 228);
   text-decoration: none;
-  border-color: #845695;
+  border-color: #bc7e1a;
 }
 
 #create__room__btn {
   display: block;
-  background-color: #845695;
+  background-color: #c35b2e;
   padding: 8px 24px;
   font-size: 14px;
   font-weight: 500;
@@ -152,7 +152,7 @@ a {
 #members__button:hover svg > path,
 #chat__button:hover svg,
 .nav__link:hover svg {
-  fill: #845695;
+  fill: #6f2ab9;
 }
 
 .nav__link svg {
